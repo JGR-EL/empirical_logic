@@ -4,14 +4,14 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "empirical-logic"
-version = "1.0.0"
+version = "1.0.1"
 description = "A formal framework for computer-aided decision-making using empirical knowledge"
 readme = "README.md"
 requires-python = ">=3.9"
 authors = [
     { name = "Jens Grotrian" }
 ]
-license = { file = "LICENSE" }
+license = "Empirical Logic Research License (ELRL) v1.0"
 
 keywords = [
     "empirical logic",
