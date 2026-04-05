@@ -66,9 +66,9 @@ See the LICENSE file for full details.
 
 ## 💼 Commercial Licensing
 
-While this project is available under a Restrictive MIT License, 
-commercial use cases that require redistribution under different terms, 
-sublicensing, or integration into proprietary products may require a 
+While this project is available under the Empirical Logic Research License 
+(ELRL) v1.0, commercial use cases that require redistribution under different 
+terms, sublicensing, or integration into proprietary products may require a 
 separate commercial license.
 
 If your organization is interested in such use, please get in touch:
