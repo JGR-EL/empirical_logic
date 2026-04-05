@@ -11,7 +11,8 @@ requires-python = ">=3.9"
 authors = [
     { name = "Jens Grotrian" }
 ]
-license = "Empirical Logic Research License (ELRL) v1.0"
+
+license = { file = "LICENSE" }
 
 keywords = [
     "empirical logic",
