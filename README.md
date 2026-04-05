@@ -53,12 +53,12 @@ For academic collaboration or industrial applications, feel free to reach out.
 
 ## ⚖️ License (Short Summary)
 
-This project is licensed under a **Restrictive MIT License**.
+This project is licensed under the **Empirical Logic Research License (ELRL) v1.0**.
 
-It allows use, modification, and redistribution of the software, including for 
-commercial purposes. However, redistribution is only permitted under the same 
-license terms. Sublicensing or distributing the software under a different 
-license is not allowed without explicit permission.
+It allows use, modification, and redistribution of the software, including 
+for commercial purposes. Redistribution is allowed only under the same license 
+terms. Sublicensing or distributing the software under a different license 
+requires explicit written permission.
 
 See the LICENSE file for full details.
 
